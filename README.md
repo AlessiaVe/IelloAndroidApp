@@ -29,7 +29,7 @@ L'App Iello sfrutta le funzioni fornite da [Iello API](https://github.com/IelloD
 
 La principale funzione dell'app è la ricerca tramite localizzazione. Premendo il tasto FAB in basso a destra nella schermata principale, viene lanciata una ricerca basata sulla posizione dell'utente, fornita dal GPS del proprio smartphone. L'app cerca tutti i posteggi per disabili situati attorno alla posizione dell'utente, entro un raggio specificato (personalizzabile dall'utente), sfruttando l'apposita funzione di Iello API.
 
-Quindi, se sono presenti dei posteggi nelle vicinanze, vengono mostrati nella mappa. Un tap su sun posteggio ne mostra i dettagli, quali l'indirizzo e la distanza dalla propria posizione. 
+Quindi, se sono presenti dei posteggi nelle vicinanze, vengono mostrati nella mappa. Un tap su un posteggio ne mostra i dettagli, quali l'indirizzo e la distanza dalla propria posizione. 
 
 Premendo sul tasto "vai" associato al posteggio viene lanciato il navigatore di Google Maps, con impostata la funzione di navigazione dalla propria posizione al posteggio selezionato. </br>
 
